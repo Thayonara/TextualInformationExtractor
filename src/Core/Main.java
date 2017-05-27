@@ -19,14 +19,18 @@ public class Main {
 		
 	    for (int i = 0; i < listOfFiles.length; i++) {
 	    	System.out.println("File " + listOfFiles[i].getName());
+	    	//Open the full file in a string
 			String text = GetTextString(listOfFiles[i]);
 				
+			//Process the string and map each file field to this map
 			Map<ETextField, String> map = TextPreprocessor.ProcessText(text);	
 			
+			//Process the raw text to extract the relations using the CoreNLP tool
 			String unprocessedRelations = map.get(ETextField.UnprocessedRelations);
 			String processedRelations = CoreNLPProcessor.ProcessRelations(unprocessedRelations);
 			map.put(ETextField.ProcessedRelations, processedRelations);
 			
+			//Print the processed file
 			System.out.println(TextPreprocessor.GetResult(map) + "\n\n");
 
 	    }
