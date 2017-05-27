@@ -32,7 +32,6 @@ public class Main {
 			
 			//Print the processed file
 			System.out.println(TextPreprocessor.GetResult(map) + "\n\n");
-
 	    }
 
 	}
