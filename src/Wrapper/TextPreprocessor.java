@@ -32,6 +32,7 @@ public class TextPreprocessor {
 			}
 		}
 		
+		//This is the text to be processed by the CoreNLP tool
 		unprocessedRelations = lines[lines.length-1];
 		
 		map.put(ETextField.Link, link);
@@ -40,8 +41,8 @@ public class TextPreprocessor {
 		map.put(ETextField.Comments, comments);
 		map.put(ETextField.JournalRef, journalRef);
 		map.put(ETextField.Subjects, subjects);
-		map.put(ETextField.UnprocessedRelation, unprocessedRelations);
-		map.put(ETextField.ProcessedRelation, "");
+		map.put(ETextField.UnprocessedRelations, unprocessedRelations);
+		map.put(ETextField.ProcessedRelations, "");
 		
 		return map;
 	}
@@ -52,7 +53,7 @@ public class TextPreprocessor {
 		output += "Subjects: " + map.get(ETextField.Subjects) + "\n";
 		output += "Comments: " + map.get(ETextField.Comments) + "\n";
 		output += "Link: " + map.get(ETextField.Link) + "\n";
-		output += "Relations: " + map.get(ETextField.ProcessedRelation);
+		output += "Relations: " + map.get(ETextField.ProcessedRelations);
 		
 		return output;
 	}

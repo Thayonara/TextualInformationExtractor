@@ -7,6 +7,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Map;
 
+import CoreNLP.CoreNLPProcessor;
 import Wrapper.ETextField;
 import Wrapper.TextPreprocessor;
 
@@ -22,11 +23,10 @@ public class Main {
 				
 			Map<ETextField, String> map = TextPreprocessor.ProcessText(text);	
 			
-			String unprocessedRelations = map.get(ETextField.UnprocessedRelation);
+			String unprocessedRelations = map.get(ETextField.UnprocessedRelations);
+			String processedRelations = CoreNLPProcessor.ProcessRelations(unprocessedRelations);
+			map.put(ETextField.ProcessedRelations, processedRelations);
 			
-			//TODO CoreNLP processing to the unprocessedRelations string
-			//TODO Put the CoreNLP processed string on the map by using map.put(ETextField.ProcessedRelations, processedRelation);
-
 			System.out.println(TextPreprocessor.GetResult(map) + "\n\n");
 
 	    }
