@@ -5,7 +5,8 @@ public enum ETextField {
 	 Title,
 	 Subjects,
 	 Comments,
+	 JournalRef,
 	 Link,
-	 Relations,
-	 ProcessedRelations
+	 UnprocessedRelation,
+	 ProcessedRelation
 }
