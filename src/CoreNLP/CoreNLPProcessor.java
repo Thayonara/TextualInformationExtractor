@@ -25,7 +25,6 @@ public class CoreNLPProcessor {
         // get contents from file
         String content = unprocessedRelations;
         System.out.println(content);
-        // read in a product review per line
         Annotation annotation = new Annotation(content);
         pipeline.annotate(annotation);
 
