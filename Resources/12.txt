@@ -1,0 +1,6 @@
+[6]  arXiv:1705.04131 [pdf, ps, other]
+Galaxy Rotation Curves via Conformal Factors
+Ciprian A. Sporea, Andrzej Borowiec, Aneta Wojnar
+Comments: 8 pages, 1 figure, 1 table
+Subjects: General Relativity and Quantum Cosmology (gr-qc)
+We propose a new formula to explain circular velocity profiles of spiral galaxies. It is based on the assumption that the gravity can be described by two conformally related metrics: one of them is responsible for the measurement of distances, while the other so-called dark metric, is responsible for a geodesic equation and therefore can be used for the description of the velocity profile. The formula is tested against HI Nearby Galaxy Survey (THINGS) data set and their accuracy is compared with the one coming from MOND.

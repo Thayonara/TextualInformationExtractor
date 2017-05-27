@@ -1,0 +1,5 @@
+[1]  arXiv:1705.03929 [pdf, other]
+Investing for the Long Run
+Dietmar Leisen, Eckhard Platen
+Subjects: Portfolio Management (q-fin.PM)
+This paper studies long term investing by an investor that maximizes either expected utility from terminal wealth or from consumption. We introduce the concepts of a generalized stochastic discount factor (SDF) and of the minimum price to attain target payouts. The paper finds that the dynamics of the SDF needs to be captured and not the entire market dynamics, which simplifies significantly practical implementations of optimal portfolio strategies. We pay particular attention to the case where the SDF is equal to the inverse of the growth-optimal portfolio in the given market. Then, optimal wealth evolution is closely linked to the growth optimal portfolio. In particular, our concepts allow us to reconcile utility optimization with the practitioner approach of growth investing. We illustrate empirically that our new framework leads to improved lifetime consumption-portfolio choice and asset allocation strategies.

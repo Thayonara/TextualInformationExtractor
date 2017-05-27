@@ -1,0 +1,6 @@
+[1]  arXiv:1705.03724 [pdf, ps, other]
+Optimal stopping and a non-zero-sum Dynkin game in discrete time with risk measures induced by BSDEs
+Miryana Grigorova, Marie-Claire Quenez (LPMA)
+Journal-ref: Stochastics: An International Journal of Probability and Stochastic Processes, Taylor \& Francis: STM, Behavioural Science and Public Health Titles, 2016, 89 (1)
+Subjects: Probability (math.PR); Risk Management (q-fin.RM)
+We first study an optimal stopping problem in which a player (an agent) uses a discrete stopping time in order to stop optimally a payoff process whose risk is evaluated by a (non-linear) g-expectation. We then consider a non-zero-sum game on discrete stopping times with two agents who aim at minimizing their respective risks. The payoffs of the agents are assessed by g-expectations (with possibly different drivers for the different players). By using the results of the first part, combined with some ideas of S. Hamad{\`e}ne and J. Zhang, we construct a Nash equilibrium point of this game by a recursive procedure. Our results are obtained in the case of a standard Lipschitz driver g without any additional assumption on the driver besides that ensuring the monotonicity of the corresponding g-expectation.

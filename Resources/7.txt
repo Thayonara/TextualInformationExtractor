@@ -1,0 +1,5 @@
+[2]  arXiv:1705.03906 [pdf, other]
+Effects of Weakly Interacting Slim Particles in Cavities with a Moving Boundary Condition
+Ariel Arza
+Subjects: High Energy Physics - Phenomenology (hep-ph)
+We study a Light Shinning Through the wall type setup with microwave cavities, where the regeneration cavity has a moving boundary condition oscillating harmonically. We find a parametric resonance that could enhance the probability conversion between Weakly Interacting Slim Particles and photons by several orders of magnitude.

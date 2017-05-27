@@ -1,0 +1,6 @@
+[2]  arXiv:1705.03912 (cross-list from physics.ins-det) [pdf, ps, other]
+A short-orbit spectrometer for low-energy pion detection in electroproduction experiments at MAMI
+D. Baumann, M. Ding, I. Friščić, R. Böhm, D. Bosnar, M. O. Distler, H. Merkel, U. Müller, Th. Walcher, M. Wendel
+Comments: 10 pages, 14 figures
+Subjects: Instrumentation and Detectors (physics.ins-det); Nuclear Experiment (nucl-ex)
+A new Short-Orbit Spectrometer (SOS) has been constructed and installed within the experimental facility of the A1 collaboration at Mainz Microtron (MAMI), with the goal to detect low-energy pions. It is equipped with a Browne-Buechner magnet and a detector system consisting of two helium-ethane based drift chambers and a scintillator telescope made of five layers. The detector system allows detection of pions in the momentum range of 50 - 147 MeV/c, which corresponds to 8.7 - 63 MeV kinetic energy. The spectrometer can be placed at a distance range of 54 - 66 cm from the target center. Two collimators are available for the measurements, one having 1.8 msr aperture and the other having 7 msr aperture. The Short-Orbit Spectrometer has been successfully calibrated and used in coincidence measurements together with the standard magnetic spectrometers of the A1 collaboration.

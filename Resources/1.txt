@@ -1,0 +1,5 @@
+[49]  arXiv:1705.04114 [pdf]
+Obstacle Avoidance Using Stereo Camera
+Akkas Uddin Haque, Ashkan Nejadpak
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+In this paper we present a novel method for obstacle avoidance using the stereo camera. The conventional obstacle avoidance methods and their limitations are discussed. A new algorithm is developed for the real-time obstacle avoidance which responds faster to unexpected obstacles. In this approach the depth map is divided into optimized number of regions and the minimum depth at each section is assigned as the depth of that region. A fuzzy controller is designed to create the drive commands for the robot/quadcopter. The system was tested on multiple paths with different obstacles and the results demonstrated the high accuracy of the developed system.

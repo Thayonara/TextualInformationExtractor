@@ -1,0 +1,7 @@
+[7]  arXiv:1705.04167 [pdf, ps, other]
+Dynamics and center of mass energy of colliding particles around black hole in f(R) gravity
+Bushra Majeed, Mubasher Jamil
+Comments: 10 Pages, 2 Figures
+Journal-ref: International Journal of Modern Physics D, Vol. 26, No. 5 (2017) 1741017 (9 pages)
+Subjects: General Relativity and Quantum Cosmology (gr-qc)
+We have investigated the dynamics of particles in the vicinity of a static spherically symmetric black hole in f(R) gravity. Using the Euler-Lagrange method the dynamical equations of a neutral particle are obtained. Assuming that the particle is initially moving in the innermost stable circular orbit, we have calculated its escape velocity, after a collision with some other particle. The conditions for the escape of colliding particles are discussed. The effective potential and the trajectories of the escaping particles are studied graphically.
